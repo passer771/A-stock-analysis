@@ -1,0 +1,1 @@
+streamlit run ./A股分析系统/stock_analyzer_a.py

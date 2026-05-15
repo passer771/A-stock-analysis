@@ -1,0 +1,1 @@
+pip install streamlit akshare plotly pandas numpy
