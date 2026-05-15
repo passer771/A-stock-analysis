@@ -1,5 +1,0 @@
-streamlit
-akshare
-plotly
-pandas
-numpy
